@@ -1,0 +1,1260 @@
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Game Plan",
+  "start": 9.3,
+  "end": 16,
+  "venue": "Media Hall",
+  "department": "Non-Tech",
+  "id": 1,
+  "createdAt": "2018-10-17T11:00:09.284Z",
+  "updatedAt": "2018-10-17T16:32:18.300Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "CSI(P)",
+  "start": 9.3,
+  "end": 10.3,
+  "venue": "501, 503, 515",
+  "department": "Non-Tech",
+  "id": 2,
+  "createdAt": "2018-10-17T11:02:08.573Z",
+  "updatedAt": "2018-10-17T16:31:38.748Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "CSI(IM)",
+  "start": 11.3,
+  "end": 12.3,
+  "venue": "Seminar Hall",
+  "department": "Non-Tech",
+  "id": 3,
+  "createdAt": "2018-10-17T11:02:37.424Z",
+  "updatedAt": "2018-10-17T16:29:02.340Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "CSI(F)",
+  "start": 13,
+  "end": 15,
+  "venue": "Machines Lab",
+  "department": "Non-Tech",
+  "id": 4,
+  "createdAt": "2018-10-17T11:03:33.634Z",
+  "updatedAt": "2018-10-17T16:28:41.183Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "TIKI-TAKA",
+  "start": 10,
+  "end": 17,
+  "venue": "Ground",
+  "department": "Non-Tech",
+  "id": 5,
+  "createdAt": "2018-10-17T11:04:05.556Z",
+  "updatedAt": "2018-10-17T16:28:15.569Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "FUN ZONE",
+  "start": 10,
+  "end": 20,
+  "venue": "New Auditorium",
+  "department": "Non-Tech",
+  "id": 6,
+  "createdAt": "2018-10-17T11:04:44.473Z",
+  "updatedAt": "2018-10-17T16:27:56.837Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "GAME ZONE",
+  "start": 10,
+  "end": 16.3,
+  "venue": "401, CC1",
+  "department": "Non-Tech",
+  "id": 7,
+  "createdAt": "2018-10-17T11:05:11.009Z",
+  "updatedAt": "2018-10-17T16:27:41.545Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Lost",
+  "start": 10,
+  "end": 16.3,
+  "venue": "Near Volleyball Court",
+  "department": "Non-Tech",
+  "id": 8,
+  "createdAt": "2018-10-17T11:06:48.965Z",
+  "updatedAt": "2018-10-17T16:27:11.458Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Best Manager(P)",
+  "start": 11.3,
+  "end": 12.3,
+  "venue": "301, 314, 315",
+  "department": "Non-Tech",
+  "id": 9,
+  "createdAt": "2018-10-17T11:07:34.034Z",
+  "updatedAt": "2018-10-17T16:26:59.011Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Best Manager(IM)",
+  "start": 14,
+  "end": 15,
+  "venue": "Seminar Hall",
+  "department": "Non-Tech",
+  "id": 10,
+  "createdAt": "2018-10-17T11:09:30.197Z",
+  "updatedAt": "2018-10-17T16:26:45.690Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Best Manager(F)",
+  "start": 15.3,
+  "end": 16.3,
+  "venue": "Auditorium",
+  "department": "Non-Tech",
+  "id": 11,
+  "createdAt": "2018-10-17T11:10:07.135Z",
+  "updatedAt": "2018-10-17T16:26:30.885Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Alohomora(F)",
+  "start": 9.3,
+  "end": 17,
+  "venue": "Volleyball Court",
+  "department": "Non-Tech",
+  "id": 12,
+  "createdAt": "2018-10-17T11:10:37.390Z",
+  "updatedAt": "2018-10-17T16:25:44.065Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Defuse(P)",
+  "start": 9.3,
+  "end": 10.3,
+  "venue": "301, 314, 315",
+  "department": "Electronics",
+  "id": 13,
+  "createdAt": "2018-10-17T11:11:15.496Z",
+  "updatedAt": "2018-10-17T16:22:43.196Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Defuse(IM)",
+  "start": 11.3,
+  "end": 14,
+  "venue": "Test Lab and Circuits Lab",
+  "department": "Electronics",
+  "id": 14,
+  "createdAt": "2018-10-17T11:11:41.530Z",
+  "updatedAt": "2018-10-17T16:22:20.812Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Defuse(F)",
+  "start": 14,
+  "end": 16,
+  "venue": "Mcrocontroller Lab",
+  "department": "Electronics",
+  "id": 15,
+  "createdAt": "2018-10-17T11:12:48.646Z",
+  "updatedAt": "2018-10-17T16:21:51.808Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Elequest(P)",
+  "start": 10.3,
+  "end": 11.3,
+  "venue": "501, 503, 515",
+  "department": "Electronics",
+  "id": 16,
+  "createdAt": "2018-10-17T11:20:16.643Z",
+  "updatedAt": "2018-10-17T16:19:49.370Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Elequest(IM)",
+  "start": 12.3,
+  "end": 14,
+  "venue": "Microcontroller Lab",
+  "department": "Electronics",
+  "id": 17,
+  "createdAt": "2018-10-17T11:20:55.537Z",
+  "updatedAt": "2018-10-17T16:19:10.024Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Elequest(F)",
+  "start": 15,
+  "end": 17,
+  "venue": "Test Lab",
+  "department": "Electronics",
+  "id": 18,
+  "createdAt": "2018-10-17T11:21:42.852Z",
+  "updatedAt": "2018-10-17T16:18:51.674Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Robosoccer",
+  "start": 10,
+  "end": 16,
+  "venue": "Amphitheater",
+  "department": "Robotics",
+  "id": 19,
+  "createdAt": "2018-10-17T11:22:45.078Z",
+  "updatedAt": "2018-10-17T16:18:24.756Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Algorithms(P)",
+  "start": 10.3,
+  "end": 11.3,
+  "venue": "301, 314, 315",
+  "department": "Computer Science",
+  "id": 20,
+  "createdAt": "2018-10-17T11:24:57.398Z",
+  "updatedAt": "2018-10-17T16:18:07.471Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Algorithms(F)",
+  "start": 14,
+  "end": 17,
+  "venue": "CC2",
+  "department": "Computer Science",
+  "id": 21,
+  "createdAt": "2018-10-17T11:25:38.461Z",
+  "updatedAt": "2018-10-17T16:17:50.286Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "LOC(P)",
+  "start": 15,
+  "end": 16,
+  "venue": "301, 314, 315",
+  "department": "Computer Science",
+  "id": 22,
+  "createdAt": "2018-10-17T11:26:07.871Z",
+  "updatedAt": "2018-10-17T16:17:29.530Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "GUEST LECTURE",
+  "start": 11.3,
+  "end": 12.3,
+  "venue": "Auditorium",
+  "department": "Talks",
+  "id": 23,
+  "createdAt": "2018-10-17T11:26:39.202Z",
+  "updatedAt": "2018-10-17T16:17:11.447Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": ".Issue",
+  "start": 15,
+  "end": 18,
+  "venue": "New Auditorium",
+  "department": "Talks",
+  "id": 24,
+  "createdAt": "2018-10-17T11:27:13.994Z",
+  "updatedAt": "2018-10-17T16:17:02.044Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "navinmohan",
+    "email": "navinmohan.mec@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 2,
+    "createdAt": "2018-10-16T03:20:47.193Z",
+    "updatedAt": "2018-10-16T14:31:17.389Z"
+  },
+  "name": "Unmasked",
+  "start": 19,
+  "end": 20,
+  "venue": "Amphitheater",
+  "department": "Talks",
+  "id": 25,
+  "createdAt": "2018-10-17T11:27:58.919Z",
+  "updatedAt": "2018-10-17T16:15:46.494Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "name": "Pulse 2018",
+  "start": 10,
+  "end": 17,
+  "venue": "409, 410",
+  "department": "Exhibition",
+  "id": 26,
+  "createdAt": "2018-10-17T11:28:21.255Z",
+  "updatedAt": "2018-10-31T16:55:52.997Z"
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "createdAt": "2018-10-31T16:56:26.201Z",
+  "name": "Instant Photography",
+  "start": 10,
+  "end": 18,
+  "venue": "College",
+  "department": "Non-Tech",
+  "updatedAt": "2018-10-31T16:57:23.961Z",
+  "id": 27
+}
+{
+  "contributors": [
+    {
+      "username": "shriram",
+      "email": "shriramvenugopal123@gmail.com",
+      "lang": "en_US",
+      "template": "default",
+      "id_ref": "1",
+      "provider": "local",
+      "id": 5,
+      "createdAt": "2018-10-17T09:29:44.989Z",
+      "updatedAt": "2018-10-17T09:31:05.286Z"
+    }
+  ],
+  "createdBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "updatedBy": {
+    "username": "shriram",
+    "email": "shriramvenugopal123@gmail.com",
+    "lang": "en_US",
+    "template": "default",
+    "id_ref": "1",
+    "provider": "local",
+    "id": 5,
+    "createdAt": "2018-10-17T09:29:44.989Z",
+    "updatedAt": "2018-10-17T09:31:05.286Z"
+  },
+  "createdAt": "2018-10-31T17:02:16.601Z",
+  "name": "Q.E.D",
+  "start": 14,
+  "end": 16,
+  "venue": "College",
+  "department": "Non-Tech",
+  "updatedAt": "2018-10-31T17:02:57.794Z",
+  "id": 28
+}
